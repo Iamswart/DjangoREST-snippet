@@ -1,2 +1,2 @@
 # DjangoREST-snippet
-An Api  built with DjangoREST framework
+An Api  built with DjangoREST
